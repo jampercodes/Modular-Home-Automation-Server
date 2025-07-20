@@ -1,0 +1,33 @@
+# Build folders
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/cmake_install.cmake
+
+# Visual Studio files
+*.sln
+*.vcxproj*
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+
+# Visual Studio code files
+.vscode
+
+# Compiled binaries
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.lib
+*.exp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
